@@ -1,0 +1,54 @@
+<p class="lead">Lead Text - The five boxing wizards jump quickly.</p>
+
+<hr>
+
+<h2>Blockquote</h2>
+
+<blockquote>
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inline link text Sed molestie eget mauris at
+    finibus. Praesent quis pretium massa, bibendum consectetur mi. Vivamus a turpis at mauris auctor
+    rutrum sed nec turpis. Nulla facilisi. Praesent commodo ex tortor, et fermentum urna congue ac. Proin
+    vitae lobortis nibh. Curabitur pretium dolor eget placerat blandit. Maecenas et velit in ex laoreet
+    tincidunt."
+</blockquote>
+
+<hr>
+
+<h2>List Styles</h2>
+
+<div class="row">
+  <div class="six columns">
+      <ul>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+      </ul>
+  </div>
+  <div class="six columns">
+      <ol>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+          <li>Lorem ipsum dolor sit amet, consectetur</li>
+      </ol>
+  </div>
+</div>
+
+</div>
+
+<footer>
+  <div class="container">
+      <p>{Jeremy Kim}  |  Copyright (a) {2021}</p>
+  </div>
+</footer>
+
+<!-- End Document
+  ------------------------------------------------- -->
+  
+  <script src="./script.js"></script>
+  
+</body>
+</html>

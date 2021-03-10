@@ -1,0 +1,15 @@
+<hr>
+
+<h2>Generic Text</h2>
+
+<p class="lead">Lead Text - The five boxing wizards jump quickly.</p>
+
+<p>Body - The five boxing wizards jump quickly.</p>
+
+<p class="italic">Body Italic - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inline link text
+Sed molestie eget mauris at finibus. Praesent quis pretium massa, bibendum consectetur mi. vivamus a
+turpis at mauris auctor rutrum sed nec turpis. Nulla facilisi. Praesent commodo ex tortor, et fermentum
+urna congue ac. Proin vitae lobortis nibh. Curabitur pretium dolor eget placerat blandit. Maecenas et
+velit in ex laoreet tincidunt.</p>
+
+<a href="#">Link - Learn More</a>
